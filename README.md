@@ -1,16 +1,3 @@
-# vehicle_spare_parts
+# Vehicle Spare Parts
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Güzelgün Service Max, araç servisleri ve yedek parça satışı yapan işletmeler için özel olarak tasarlanmış bir mobil uygulamadır. Bu uygulama, müşteri yönetimi, yedek parça stoğu takibi ve servis geçmişi kaydı gibi işlevler sunarak işletmelerin dijital dönüşümünü destekler.
